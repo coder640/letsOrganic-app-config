@@ -1,4 +1,5 @@
 {
+
   "HorizonLayout":[
     {
       "layout":"header_location"
@@ -11,44 +12,46 @@
       "items":[
         {
           "bannerWithProduct":false,
-          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/bannersUpFrom7april23%2Fapp_NMW-500ml-offer.gif?alt=media&token=4f93698e-a439-4222-b59c-31892bd8ded1",
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/Banners2025%2FApp_Web_S%20Bernado1.5ltr_april.jpg?alt=media&token=c9a5741d-5087-46cf-b784-a5bc036a6e69",
           "products":[],
           "showSubcategory":false,
           "defaultShowProduct":false
         },
         {
           "bannerWithProduct":false,
-          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/bannersUpFrom7april23%2Fapp_back-in-stock.gif?alt=media&token=80f1e099-5ee7-4cd9-b147-c93de94c8482",
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/Banners2025%2FApp_app_S%20Bernado_1.5ltr%201.jpg?alt=media&token=d8fd3b53-8267-4e7f-a244-8015ab3dbdf5",
+          "products":[],
+          "showSubcategory":false,
+          "defaultShowProduct":false
+        },
+        {
+          "bannerWithProduct":false,
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/Banners2025%2FApp_app_Nocelilla.jpg?alt=media&token=dd02cc57-41e2-4778-9492-645f74500982",
+          "products":[],
+          "showSubcategory":false,
+          "defaultShowProduct":false
+        },
+        {
+            
+            "bannerWithProduct":false,
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/Banners2025%2Fapp_New%20arrival%201.jpg?alt=media&token=b3e07753-a28e-4574-8a17-8027811a83aa",
+          "products":[],
+          "showSubcategory":false,
+          "defaultShowProduct":false
+        },
+                {
+          "bannerWithProduct":false,
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/Banners2025%2Fapp_New%20arrival.jpg?alt=media&token=5bcc0a7d-901a-4a3e-935b-aa79c14976b6",
           "showSubcategory":false,
           "products":[],
           "defaultShowProduct":false
         },
         {
           "bannerWithProduct":false,
-          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/bannersUpFrom7april23%2FApp_New-arrival-TrafoandYakso.gif?alt=media&token=102a3684-a26f-4a33-b101-b4aaa069c39d",
-          "products":[],
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/Banners2025%2Fapp_calender_April%2018-24.jpg?alt=media&token=590a3d4e-99a0-4aff-9373-133cf68c0735",
           "showSubcategory":false,
+          "products":[],
           "defaultShowProduct":false
-        },
-        {
-          "defaultShowProduct":false,
-          "bannerWithProduct":false,
-          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/bannersUpFrom7april23%2Fapp_calender%20(1).jpg?alt=media&token=1ce7ed5d-2c32-47d1-a401-8dd975d35545",
-          "showSubcategory":false
-        },
-        {
-          "showSubcategory":false,
-          "defaultShowProduct":false,
-          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/popUp%2FApp_app_sec-banner.gif?alt=media&token=8dc712ed-5957-499b-a821-30e631d83de2",
-          "bannerWithProduct":false,
-          "products":[],
-          "category":"gid://shopify/Collection/292880122019"
-        },
-        {
-          "defaultShowProduct":false,
-          "bannerWithProduct":false,
-          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/bannersUpFrom7april23%2FApp_New%20arrival-2.jpg?alt=media&token=00a3092a-a7d9-4493-986c-da8b94e77a20",
-          "showSubcategory":false
         }
       ],
       "marginBottom":0.0,
@@ -209,7 +212,7 @@
       "items":[
         {
           "padding":5,
-          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Floyalty%401.5.png?alt=media&token=63d12900-e302-4d5e-9f8a-cf76706c0338",
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/bannersUpFrom7april23%2Floyalty_1%20copy.jpg?alt=media&token=ce93200f-d5bc-4e06-a599-d3b54faa74a8",
           "isLoyaltyBanner":true,
           "bannerWithProduct":false,
           "showSubcategory":false,
@@ -348,13 +351,13 @@
       "items":[
         {
           "padding":5.0,
-          "image":"https://www.letsorganic.com/cdn/shop/files/WhatsApp_Image_2024-07-11_at_11.15.03_AM_2808x.jpg?v=1720683081",
+          "image":"https://www.letsorganic.com/cdn/shop/files/Dairy_free_banner_3024x.jpg?v=1742796542",
           "isLoyaltyBanner":true,
           "bannerWithProduct":false,
           "showSubcategory":false,
           "defaultShowProduct":false,
           "products":[],
-          "category":"gid://shopify/Collection/295804862627",
+          "category":"gid://shopify/Collection/292548378787",
           "video":""
         }
       ],
@@ -448,12 +451,6 @@
       "isHorizontal":false,
       "enableBackground":false,
       "parallax":false
-    },
-    {
-      "layout":"brand",
-      "isBrandNameShown":true,
-      "isLogoCornerRounded":true,
-      "name":"Our Brand Choice(Beta)"
     }
   ],
   "Setting":{
@@ -533,10 +530,11 @@
           "marginLeft":0.0,
           "items":[
             {
-              "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/popUp%2FApp_Fish%20%26%20Buchery.jpg?alt=media&token=2bf05286-4782-4558-86c8-32abddb54c0c",
+              "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/Banners2025%2FApp_%20Breakfast_april%2018.jpg?alt=media&token=84de21b3-2c10-4da9-b084-4d12fab6fd2a",
               "padding":0.0,
               "bannerWithProduct":false,
               "showSubcategory":false,
+              "category":"gid://shopify/Collection/297840410787",
               "defaultShowProduct":false,
               "products":[]
             }
@@ -579,529 +577,569 @@
       "showOriginalColor":false
     },
     {
-      "key":"yEDlByUoTE",
-      "layout":"category",
-      "icon":"list_bullet",
-      "fontFamily":"CupertinoIcons",
-      "label":"Categories",
       "pos":200,
+      "icon":"list_bullet",
+      "label":"Categories",
+      "layout":"category",
+      "parallax":false,
       "defaultTab":false,
+      "fontFamily":"CupertinoIcons",
       "fullscreen":false,
-      "showOriginalColor":false,
+      "showSearch":true,
       "categoryLayout":"card",
       "remapCategories":[
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2FFP.png?alt=media&token=dae8ebe2-e5b6-4e4b-ac21-05fcdbdf6fb3",
-"category":"gid://shopify/Collection/292531404963"
-},
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2FMEAT%20AND%20SEAFOOD.png?alt=media&token=184d11b7-356c-472c-952f-b48668937e5b",
-"category":"gid://shopify/Collection/292527341731"
-},
-{
-"parent":"gid://shopify/Collection/292527341731",
-"category":"gid://shopify/Collection/292527407267"
-},
-{
-"parent":"gid://shopify/Collection/292527407267",
-"category":"gid://shopify/Collection/292527440035"
-},
-{
-"parent":"gid://shopify/Collection/292527407267",
-"category":"gid://shopify/Collection/292527472803"
-},
-{
-"parent":"gid://shopify/Collection/292527407267",
-"category":"gid://shopify/Collection/292527505571"
-},
-{
-"parent":"gid://shopify/Collection/292527341731",
-"category":"gid://shopify/Collection/292527603875"
-},
-{
-"parent":"gid://shopify/Collection/292527603875",
-"category":"gid://shopify/Collection/292527571107"
-},
-{
-"parent":"gid://shopify/Collection/292527603875",
-"category":"gid://shopify/Collection/292527538339"
-},
-{
-"parent":"gid://shopify/Collection/292531404963",
-"category":"gid://shopify/Collection/292531437731"
-},
-{
-"parent":"gid://shopify/Collection/292531437731",
-"category":"gid://shopify/Collection/292531503267"
-},
-{
-"parent":"gid://shopify/Collection/292531437731",
-"category":"gid://shopify/Collection/292531568803"
-},
-{
-"parent":"gid://shopify/Collection/292531437731",
-"category":"gid://shopify/Collection/292531634339"
-},
-{
-"parent":"gid://shopify/Collection/292531437731",
-"category":"gid://shopify/Collection/292531601571"
-},
-{
-"parent":"gid://shopify/Collection/292531437731",
-"category":"gid://shopify/Collection/295975125155"
-},
-{
-"parent":"gid://shopify/Collection/292531437731",
-"category":"gid://shopify/Collection/292531667107"
-},
-{
-"parent":"gid://shopify/Collection/292531437731",
-"category":"gid://shopify/Collection/292531536035"
-},
-{
-"parent":"gid://shopify/Collection/292531437731",
-"category":"gid://shopify/Collection/292531798179"
-},
-{
-"parent":"gid://shopify/Collection/292531437731",
-"category":"gid://shopify/Collection/295975485603"
-},
-{
-"parent":"gid://shopify/Collection/292531437731",
-"category":"gid://shopify/Collection/292533174435"
-},
-{
-"parent":"gid://shopify/Collection/292531437731",
-"category":"gid://shopify/Collection/295975288995"
-},
-{
-"parent":"gid://shopify/Collection/292531404963",
-"category":"gid://shopify/Collection/292531830947"
-},
-{
-"parent":"gid://shopify/Collection/292531830947",
-"category":"gid://shopify/Collection/292531863715"
-},
-{
-"parent":"gid://shopify/Collection/292531830947",
-"category":"gid://shopify/Collection/292531896483"
-},
-{
-"parent":"gid://shopify/Collection/292531830947",
-"category":"gid://shopify/Collection/292532060323"
-},
-{
-"parent":"gid://shopify/Collection/292531830947",
-"category":"gid://shopify/Collection/292532093091"
-},
-{
-"parent":"gid://shopify/Collection/292531830947",
-"category":"gid://shopify/Collection/292532027555"
-},
-{
-"parent":"gid://shopify/Collection/292531830947",
-"category":"gid://shopify/Collection/292531962019"
-},
-{
-"parent":"gid://shopify/Collection/292531404963",
-"category":"gid://shopify/Collection/292532158627"
-},
-{
-"parent":"gid://shopify/Collection/292532158627",
-"category":"gid://shopify/Collection/292532224163"
-},
-{
-"parent":"gid://shopify/Collection/292532158627",
-"category":"gid://shopify/Collection/292532486307"
-},
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2FDRINKS.png?alt=media&token=5a7890d8-ad1d-40ee-9b67-de84d0601549",
-"category":"gid://shopify/Collection/292585734307"
-},
-{
-"parent":"gid://shopify/Collection/292585734307",
-"category":"gid://shopify/Collection/292585799843"
-},
-{
-"parent":"gid://shopify/Collection/292585799843",
-"category":"gid://shopify/Collection/292585832611"
-},
-{
-"parent":"gid://shopify/Collection/292585799843",
-"category":"gid://shopify/Collection/292586619043"
-},
-{
-"parent":"gid://shopify/Collection/292585799843",
-"category":"gid://shopify/Collection/292585865379"
-},
-{
-"parent":"gid://shopify/Collection/292585734307",
-"category":"gid://shopify/Collection/292585930915"
-},
-{
-"parent":"gid://shopify/Collection/292585930915",
-"category":"gid://shopify/Collection/292585963683"
-},
-{
-"parent":"gid://shopify/Collection/292585930915",
-"category":"gid://shopify/Collection/292586029219"
-},
-{
-"parent":"gid://shopify/Collection/292585930915",
-"category":"gid://shopify/Collection/292585996451"
-},
-{
-"parent":"gid://shopify/Collection/292585930915",
-"category":"gid://shopify/Collection/292586094755"
-},
-{
-"parent":"gid://shopify/Collection/292585930915",
-"category":"gid://shopify/Collection/292586258595"
-},
-{
-"parent":"gid://shopify/Collection/292585930915",
-"category":"gid://shopify/Collection/292586127523"
-},
-{
-"parent":"gid://shopify/Collection/292585930915",
-"category":"gid://shopify/Collection/292586291363"
-},
-{
-"parent":"gid://shopify/Collection/292585734307",
-"category":"gid://shopify/Collection/292586324131"
-},
-{
-"parent":"gid://shopify/Collection/292586324131",
-"category":"gid://shopify/Collection/292586389667"
-},
-{
-"parent":"gid://shopify/Collection/292586324131",
-"category":"gid://shopify/Collection/292586422435"
-},
-{
-"parent":"gid://shopify/Collection/292585734307",
-"category":"gid://shopify/Collection/292586455203"
-},
-{
-"parent":"gid://shopify/Collection/292586455203",
-"category":"gid://shopify/Collection/292586520739"
-},
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fhealth%20%26%20beauty.png?alt=media&token=5459d5f7-f744-46bb-961b-12893c73e0da",
-"category":"gid://shopify/Collection/292587110563"
-},
-{
-"parent":"gid://shopify/Collection/292587110563",
-"category":"gid://shopify/Collection/292587143331"
-},
-{
-"parent":"gid://shopify/Collection/292587143331",
-"category":"gid://shopify/Collection/292587176099"
-},
-{
-"parent":"gid://shopify/Collection/292587143331",
-"category":"gid://shopify/Collection/292587274403"
-},
-{
-"parent":"gid://shopify/Collection/292587143331",
-"category":"gid://shopify/Collection/292587307171"
-},
-{
-"parent":"gid://shopify/Collection/292587143331",
-"category":"gid://shopify/Collection/292587405475"
-},
-{
-"parent":"gid://shopify/Collection/292587143331",
-"category":"gid://shopify/Collection/292587339939"
-},
-{
-"parent":"gid://shopify/Collection/292587143331",
-"category":"gid://shopify/Collection/292587536547"
-},
-{
-"parent":"gid://shopify/Collection/292587110563",
-"category":"gid://shopify/Collection/292587438243"
-},
-{
-"parent":"gid://shopify/Collection/292587438243",
-"category":"gid://shopify/Collection/292587471011"
-},
-{
-"parent":"gid://shopify/Collection/292587438243",
-"category":"gid://shopify/Collection/292587503779"
-},
-{
-"parent":"gid://shopify/Collection/292587438243",
-"category":"gid://shopify/Collection/292587569315"
-},
-{
-"parent":"gid://shopify/Collection/292587110563",
-"category":"gid://shopify/Collection/292587602083"
-},
-{
-"parent":"gid://shopify/Collection/292587602083",
-"category":"gid://shopify/Collection/292587634851"
-},
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2FBABIES%20%26%20KIDS.png?alt=media&token=bd29b504-c899-4863-93a9-3e290e54b873",
-"category":"gid://shopify/Collection/292615684259"
-},
-{
-"parent":"gid://shopify/Collection/292615684259",
-"category":"gid://shopify/Collection/292616044707"
-},
-{
-"parent":"gid://shopify/Collection/292616044707",
-"category":"gid://shopify/Collection/292615815331"
-},
-{
-"parent":"gid://shopify/Collection/292616044707",
-"category":"gid://shopify/Collection/292615848099"
-},
-{
-"parent":"gid://shopify/Collection/292616044707",
-"category":"gid://shopify/Collection/292615913635"
-},
-{
-"parent":"gid://shopify/Collection/292615684259",
-"category":"gid://shopify/Collection/292615749795"
-},
-{
-"parent":"gid://shopify/Collection/292615684259",
-"category":"gid://shopify/Collection/292615717027"
-},
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fdairy.png?alt=media&token=9857ccb0-95bd-4808-9083-8c281511a22a",
-"category":"gid://shopify/Collection/292548378787"
-},
-{
-"parent":"gid://shopify/Collection/292548378787",
-"category":"gid://shopify/Collection/292548509859"
-},
-{
-"parent":"gid://shopify/Collection/292548378787",
-"category":"gid://shopify/Collection/292548542627"
-},
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fshop%201.png?alt=media&token=43e7dc39-ba82-498b-ac02-f03684c54699",
-"category":"gid://shopify/Collection/292592189603"
-},
-{
-"parent":"gid://shopify/Collection/292592189603",
-"category":"gid://shopify/Collection/292592320675"
-},
-{
-"parent":"gid://shopify/Collection/292592320675",
-"category":"gid://shopify/Collection/292592386211"
-},
-{
-"parent":"gid://shopify/Collection/292592320675",
-"category":"gid://shopify/Collection/292592451747"
-},
-{
-"parent":"gid://shopify/Collection/292592320675",
-"category":"gid://shopify/Collection/292592484515"
-},
-{
-"parent":"gid://shopify/Collection/292592320675",
-"category":"gid://shopify/Collection/292592517283"
-},
-{
-"parent":"gid://shopify/Collection/292592320675",
-"category":"gid://shopify/Collection/292592648355"
-},
-{
-"parent":"gid://shopify/Collection/292592320675",
-"category":"gid://shopify/Collection/292592550051"
-},
-{
-"parent":"gid://shopify/Collection/292592320675",
-"category":"gid://shopify/Collection/292592681123"
-},
-{
-"parent":"gid://shopify/Collection/292592320675",
-"category":"gid://shopify/Collection/292592713891"
-},
-{
-"parent":"gid://shopify/Collection/292592320675",
-"category":"gid://shopify/Collection/292592746659"
-},
-{
-"parent":"gid://shopify/Collection/292592320675",
-"category":"gid://shopify/Collection/292592418979"
-},
-{
-"parent":"gid://shopify/Collection/292592320675",
-"category":"gid://shopify/Collection/292592943267"
-},
-{
-"parent":"gid://shopify/Collection/292592943267",
-"category":"gid://shopify/Collection/292593008803"
-},
-{
-"parent":"gid://shopify/Collection/292592943267",
-"category":"gid://shopify/Collection/292592976035"
-},
-{
-"parent":"gid://shopify/Collection/292592943267",
-"category":"gid://shopify/Collection/292593041571"
-},
-{
-"parent":"gid://shopify/Collection/292592943267",
-"category":"gid://shopify/Collection/292593107107"
-},
-{
-"parent":"gid://shopify/Collection/292592943267",
-"category":"gid://shopify/Collection/292593139875"
-},
-{
-"parent":"gid://shopify/Collection/292592189603",
-"category":"gid://shopify/Collection/292593172643"
-},
-{
-"parent":"gid://shopify/Collection/292593172643",
-"category":"gid://shopify/Collection/292593238179"
-},
-{
-"parent":"gid://shopify/Collection/292593172643",
-"category":"gid://shopify/Collection/292593270947"
-},
-{
-"parent":"gid://shopify/Collection/292593172643",
-"category":"gid://shopify/Collection/292593205411"
-},
-{
-"parent":"gid://shopify/Collection/292593172643",
-"category":"gid://shopify/Collection/292593336483"
-},
-{
-"parent":"gid://shopify/Collection/292593172643",
-"category":"gid://shopify/Collection/292593369251"
-},
-{
-"parent":"gid://shopify/Collection/292593172643",
-"category":"gid://shopify/Collection/292593303715"
-},
-{
-"parent":"gid://shopify/Collection/292593172643",
-"category":"gid://shopify/Collection/292593402019"
-},
-{
-"parent":"gid://shopify/Collection/292592189603",
-"category":"gid://shopify/Collection/292593467555"
-},
-{
-"parent":"gid://shopify/Collection/292593467555",
-"category":"gid://shopify/Collection/292593500323"
-},
-{
-"parent":"gid://shopify/Collection/292593467555",
-"category":"gid://shopify/Collection/292593533091"
-},
-{
-"parent":"gid://shopify/Collection/292593467555",
-"category":"gid://shopify/Collection/292593631395"
-},
-{
-"parent":"gid://shopify/Collection/292615684259",
-"category":"gid://shopify/Collection/292615782563"
-},
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fdis.png?alt=media&token=659c9bda-2e2a-4720-b257-11acaf708fb5",
-"category":"gid://shopify/Collection/292875600035"
-},
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fnew%20arrival%201.png?alt=media&token=57114628-6588-4980-b568-16b7bf4d0364",
-"category":"gid://shopify/Collection/292880122019"
-},
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fback%20in%20stock.png?alt=media&token=e7b5e681-a6ad-4ada-b8ee-243848ebfa4e",
-"category":"gid://shopify/Collection/295804862627"
-},
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Floyalty%401.5x%202.png?alt=media&token=301fc131-93f3-4c0c-902c-10fb80b44dc7",
-"category":"gid://shopify/Collection/296271937699"
-},
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fgluten%20free%201.png?alt=media&token=ac098854-24d8-4aac-8952-5a9b636c7123",
-"category":"gid://shopify/Collection/296416936099"
-},
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2FVEGAN.png?alt=media&token=5ccd6485-d15c-457b-98f6-3ff6cadd96fa",
-"category":"gid://shopify/Collection/296417362083"
-},
-{
-"image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Ffitness.png?alt=media&token=13e85915-8191-4cd8-8a68-1ae57baed833",
-"category":"gid://shopify/Collection/297738502307"
-},
-{
-"parent":"gid://shopify/Collection/292615684259",
-"category":"gid://shopify/Collection/299037950115"
-},
-{
-"parent":"gid://shopify/Collection/292587110563",
-"category":"gid://shopify/Collection/297853190307"
-},
-{
-"parent":"gid://shopify/Collection/292592189603",
-"category":"gid://shopify/Collection/305336254627"
-},
-{
-"parent":"gid://shopify/Collection/292592189603",
-"category":"gid://shopify/Collection/305336156323"
-},
-{
-"parent":"gid://shopify/Collection/292875600035",
-"category":"gid://shopify/Collection/300845432995"
-},
-{
-"parent":"gid://shopify/Collection/292875600035",
-"category":"gid://shopify/Collection/305105502371"
-},
-{
-"category":"gid://shopify/Collection/307105693859",
-"parent":"gid://shopify/Collection/307106906275"
-},
-{
-"parent":"gid://shopify/Collection/292875600035",
-"category":"gid://shopify/Collection/307111493795"
-},
-{
-"parent":"gid://shopify/Collection/292548378787",
-"category":"gid://shopify/Collection/307144327331"
-},
-{
-"parent":"gid://shopify/Collection/292548378787",
-"category":"gid://shopify/Collection/307111198883"
-},
-{
-"parent":"gid://shopify/Collection/292548378787",
-"category":"gid://shopify/Collection/307111297187"
-},
-{
-"parent":"gid://shopify/Collection/292548378787",
-"category":"gid://shopify/Collection/307111329955"
-},
-{
-"parent":"gid://shopify/Collection/292548378787",
-"category":"gid://shopify/Collection/307111100579"
-},
-{
-"parent":"gid://shopify/Collection/292548378787",
-"category":"gid://shopify/Collection/307111067811"
-},
-{
-"parent":"gid://shopify/Collection/292875600035",
-"category":"gid://shopify/Collection/306846531747"
-},
-{
-    "category":"gid://shopify/Collection/304817176739",
-    "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fweb_SB%20water-2.jpg?alt=media&token=61228e3f-8482-4c9e-ad44-2e7810ecf460"
-}
-],
-      "parallax":false,
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2FFP.png?alt=media&token=dae8ebe2-e5b6-4e4b-ac21-05fcdbdf6fb3",
+          "category":"gid://shopify/Collection/292531404963"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2FMEAT%20AND%20SEAFOOD.png?alt=media&token=184d11b7-356c-472c-952f-b48668937e5b",
+          "category":"gid://shopify/Collection/292527341731"
+        },
+        {
+          "parent":"gid://shopify/Collection/292527341731",
+          "category":"gid://shopify/Collection/292527440035"
+        },
+        {
+          "parent":"gid://shopify/Collection/292527341731",
+          "category":"gid://shopify/Collection/292527472803"
+        },
+        {
+          "parent":"gid://shopify/Collection/292527341731",
+          "category":"gid://shopify/Collection/292527505571"
+        },
+        {
+          "parent":"gid://shopify/Collection/292527341731",
+          "category":"gid://shopify/Collection/292527603875"
+        },
+        {
+          "parent":"gid://shopify/Collection/292527603875",
+          "category":"gid://shopify/Collection/292527571107"
+        },
+        {
+          "parent":"gid://shopify/Collection/292527603875",
+          "category":"gid://shopify/Collection/292527538339"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531404963",
+          "category":"gid://shopify/Collection/292531437731"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531437731",
+          "category":"gid://shopify/Collection/292531503267"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531437731",
+          "category":"gid://shopify/Collection/292531568803"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531437731",
+          "category":"gid://shopify/Collection/292531634339"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531437731",
+          "category":"gid://shopify/Collection/292531601571"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531437731",
+          "category":"gid://shopify/Collection/295975125155"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531437731",
+          "category":"gid://shopify/Collection/292531667107"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531437731",
+          "category":"gid://shopify/Collection/292531536035"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531437731",
+          "category":"gid://shopify/Collection/292531798179"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531437731",
+          "category":"gid://shopify/Collection/295975485603"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531437731",
+          "category":"gid://shopify/Collection/292533174435"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531437731",
+          "category":"gid://shopify/Collection/295975288995"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531404963",
+          "category":"gid://shopify/Collection/292531830947"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531830947",
+          "category":"gid://shopify/Collection/292531863715"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531830947",
+          "category":"gid://shopify/Collection/292531896483"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531830947",
+          "category":"gid://shopify/Collection/292532060323"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531830947",
+          "category":"gid://shopify/Collection/292532093091"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531830947",
+          "category":"gid://shopify/Collection/292532027555"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531830947",
+          "category":"gid://shopify/Collection/292531962019"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531404963",
+          "category":"gid://shopify/Collection/292532158627"
+        },
+        {
+          "parent":"gid://shopify/Collection/292532158627",
+          "category":"gid://shopify/Collection/292532224163"
+        },
+        {
+          "parent":"gid://shopify/Collection/292532158627",
+          "category":"gid://shopify/Collection/292532486307"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2FDRINKS.png?alt=media&token=5a7890d8-ad1d-40ee-9b67-de84d0601549",
+          "category":"gid://shopify/Collection/292585734307"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585734307",
+          "category":"gid://shopify/Collection/292585799843"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585799843",
+          "category":"gid://shopify/Collection/292585832611"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585799843",
+          "category":"gid://shopify/Collection/292586619043"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585799843",
+          "category":"gid://shopify/Collection/292585865379"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585734307",
+          "category":"gid://shopify/Collection/292585930915"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585930915",
+          "category":"gid://shopify/Collection/292585963683"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585930915",
+          "category":"gid://shopify/Collection/292586029219"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585930915",
+          "category":"gid://shopify/Collection/292585996451"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585930915",
+          "category":"gid://shopify/Collection/292586094755"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585930915",
+          "category":"gid://shopify/Collection/292586258595"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585930915",
+          "category":"gid://shopify/Collection/292586127523"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585930915",
+          "category":"gid://shopify/Collection/292586291363"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585734307",
+          "category":"gid://shopify/Collection/292586324131"
+        },
+        {
+          "parent":"gid://shopify/Collection/292586324131",
+          "category":"gid://shopify/Collection/292586389667"
+        },
+        {
+          "parent":"gid://shopify/Collection/292586324131",
+          "category":"gid://shopify/Collection/292586422435"
+        },
+        {
+          "parent":"gid://shopify/Collection/292585734307",
+          "category":"gid://shopify/Collection/292586455203"
+        },
+        {
+          "parent":"gid://shopify/Collection/292586455203",
+          "category":"gid://shopify/Collection/292586520739"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fhealth%20%26%20beauty.png?alt=media&token=5459d5f7-f744-46bb-961b-12893c73e0da",
+          "category":"gid://shopify/Collection/292587110563"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587110563",
+          "category":"gid://shopify/Collection/292587143331"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587143331",
+          "category":"gid://shopify/Collection/292587176099"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587143331",
+          "category":"gid://shopify/Collection/292587274403"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587143331",
+          "category":"gid://shopify/Collection/292587307171"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587143331",
+          "category":"gid://shopify/Collection/292587405475"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587143331",
+          "category":"gid://shopify/Collection/292587339939"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587143331",
+          "category":"gid://shopify/Collection/292587536547"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587110563",
+          "category":"gid://shopify/Collection/292587438243"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587438243",
+          "category":"gid://shopify/Collection/292587471011"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587438243",
+          "category":"gid://shopify/Collection/292587503779"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587438243",
+          "category":"gid://shopify/Collection/292587569315"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587110563",
+          "category":"gid://shopify/Collection/292587602083"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587602083",
+          "category":"gid://shopify/Collection/292587634851"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2FBABIES%20%26%20KIDS.png?alt=media&token=bd29b504-c899-4863-93a9-3e290e54b873",
+          "category":"gid://shopify/Collection/292615684259"
+        },
+        {
+          "parent":"gid://shopify/Collection/292615684259",
+          "category":"gid://shopify/Collection/292616044707"
+        },
+        {
+          "parent":"gid://shopify/Collection/292616044707",
+          "category":"gid://shopify/Collection/292615815331"
+        },
+        {
+          "parent":"gid://shopify/Collection/292616044707",
+          "category":"gid://shopify/Collection/292615848099"
+        },
+        {
+          "parent":"gid://shopify/Collection/292616044707",
+          "category":"gid://shopify/Collection/292615913635"
+        },
+        {
+          "parent":"gid://shopify/Collection/292615684259",
+          "category":"gid://shopify/Collection/292615749795"
+        },
+        {
+          "parent":"gid://shopify/Collection/292615684259",
+          "category":"gid://shopify/Collection/292615717027"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fdairy.png?alt=media&token=9857ccb0-95bd-4808-9083-8c281511a22a",
+          "category":"gid://shopify/Collection/292548378787"
+        },
+        {
+          "parent":"gid://shopify/Collection/292548378787",
+          "category":"gid://shopify/Collection/292548509859"
+        },
+        {
+          "parent":"gid://shopify/Collection/292548378787",
+          "category":"gid://shopify/Collection/292548542627"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fshop%201.png?alt=media&token=43e7dc39-ba82-498b-ac02-f03684c54699",
+          "category":"gid://shopify/Collection/292592189603"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592189603",
+          "category":"gid://shopify/Collection/292592320675"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592320675",
+          "category":"gid://shopify/Collection/292592386211"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592320675",
+          "category":"gid://shopify/Collection/292592451747"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592320675",
+          "category":"gid://shopify/Collection/292592484515"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592320675",
+          "category":"gid://shopify/Collection/292592517283"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592320675",
+          "category":"gid://shopify/Collection/292592648355"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592320675",
+          "category":"gid://shopify/Collection/292592550051"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592320675",
+          "category":"gid://shopify/Collection/292592681123"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592320675",
+          "category":"gid://shopify/Collection/292592713891"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592320675",
+          "category":"gid://shopify/Collection/292592746659"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592320675",
+          "category":"gid://shopify/Collection/292592418979"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592320675",
+          "category":"gid://shopify/Collection/292592943267"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592943267",
+          "category":"gid://shopify/Collection/292593008803"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592943267",
+          "category":"gid://shopify/Collection/292592976035"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592943267",
+          "category":"gid://shopify/Collection/292593041571"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592943267",
+          "category":"gid://shopify/Collection/292593107107"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592943267",
+          "category":"gid://shopify/Collection/292593139875"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592189603",
+          "category":"gid://shopify/Collection/292593172643"
+        },
+        {
+          "parent":"gid://shopify/Collection/292593172643",
+          "category":"gid://shopify/Collection/292593238179"
+        },
+        {
+          "parent":"gid://shopify/Collection/292593172643",
+          "category":"gid://shopify/Collection/292593270947"
+        },
+        {
+          "parent":"gid://shopify/Collection/292593172643",
+          "category":"gid://shopify/Collection/292593205411"
+        },
+        {
+          "parent":"gid://shopify/Collection/292593172643",
+          "category":"gid://shopify/Collection/292593336483"
+        },
+        {
+          "parent":"gid://shopify/Collection/292593172643",
+          "category":"gid://shopify/Collection/292593369251"
+        },
+        {
+          "parent":"gid://shopify/Collection/292593172643",
+          "category":"gid://shopify/Collection/292593303715"
+        },
+        {
+          "parent":"gid://shopify/Collection/292593172643",
+          "category":"gid://shopify/Collection/292593402019"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592189603",
+          "category":"gid://shopify/Collection/292593467555"
+        },
+        {
+          "parent":"gid://shopify/Collection/292593467555",
+          "category":"gid://shopify/Collection/292593500323"
+        },
+        {
+          "parent":"gid://shopify/Collection/292593467555",
+          "category":"gid://shopify/Collection/292593533091"
+        },
+        {
+          "parent":"gid://shopify/Collection/292593467555",
+          "category":"gid://shopify/Collection/292593631395"
+        },
+        {
+          "parent":"gid://shopify/Collection/292615684259",
+          "category":"gid://shopify/Collection/292615782563"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fdis.png?alt=media&token=659c9bda-2e2a-4720-b257-11acaf708fb5",
+          "category":"gid://shopify/Collection/292875600035"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fnew%20arrival%201.png?alt=media&token=57114628-6588-4980-b568-16b7bf4d0364",
+          "category":"gid://shopify/Collection/292880122019"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fback%20in%20stock.png?alt=media&token=e7b5e681-a6ad-4ada-b8ee-243848ebfa4e",
+          "category":"gid://shopify/Collection/295804862627"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Floyalty%401.5x%202.png?alt=media&token=301fc131-93f3-4c0c-902c-10fb80b44dc7",
+          "category":"gid://shopify/Collection/296271937699"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fgluten%20free%201.png?alt=media&token=ac098854-24d8-4aac-8952-5a9b636c7123",
+          "category":"gid://shopify/Collection/296416936099"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2FVEGAN.png?alt=media&token=5ccd6485-d15c-457b-98f6-3ff6cadd96fa",
+          "category":"gid://shopify/Collection/296417362083"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Ffitness.png?alt=media&token=13e85915-8191-4cd8-8a68-1ae57baed833",
+          "parent":"gid://shopify/Collection/297738502307",
+          "category":"gid://shopify/Collection/307768918179"
+        },
+        {
+          "parent":"gid://shopify/Collection/292615684259",
+          "category":"gid://shopify/Collection/299037950115"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587110563",
+          "category":"gid://shopify/Collection/297853190307"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592189603",
+          "category":"gid://shopify/Collection/305336254627"
+        },
+        {
+          "parent":"gid://shopify/Collection/292592189603",
+          "category":"gid://shopify/Collection/305336156323"
+        },
+        {
+          "parent":"gid://shopify/Collection/292875600035",
+          "category":"gid://shopify/Collection/300845432995"
+        },
+        {
+          "parent":"gid://shopify/Collection/292875600035",
+          "category":"gid://shopify/Collection/305105502371"
+        },
+        {
+          "parent":"gid://shopify/Collection/307106906275",
+          "category":"gid://shopify/Collection/307105693859"
+        },
+        {
+          "parent":"gid://shopify/Collection/292875600035",
+          "category":"gid://shopify/Collection/307111493795"
+        },
+        {
+          "parent":"gid://shopify/Collection/292548378787",
+          "category":"gid://shopify/Collection/307144327331"
+        },
+        {
+          "parent":"gid://shopify/Collection/292548378787",
+          "category":"gid://shopify/Collection/307111198883"
+        },
+        {
+          "parent":"gid://shopify/Collection/292548378787",
+          "category":"gid://shopify/Collection/307111297187"
+        },
+        {
+          "parent":"gid://shopify/Collection/292548378787",
+          "category":"gid://shopify/Collection/307111329955"
+        },
+        {
+          "parent":"gid://shopify/Collection/292548378787",
+          "category":"gid://shopify/Collection/307111100579"
+        },
+        {
+          "parent":"gid://shopify/Collection/292548378787",
+          "category":"gid://shopify/Collection/307111067811"
+        },
+        {
+          "parent":"gid://shopify/Collection/292875600035",
+          "category":"gid://shopify/Collection/306846531747"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fweb_SB%20water-2.jpg?alt=media&token=61228e3f-8482-4c9e-ad44-2e7810ecf460",
+          "category":"gid://shopify/Collection/304817176739"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587110563",
+          "category":"gid://shopify/Collection/307768885411"
+        },
+        {
+          "parent":"gid://shopify/Collection/292587110563",
+          "category":"gid://shopify/Collection/309539111075"
+        },
+        {
+          "parent":"gid://shopify/Collection/307453198499",
+          "category":"gid://shopify/Collection/309795651747"
+        },
+        {
+          "parent":"gid://shopify/Collection/292531404963",
+          "category":"gid://shopify/Collection/307905298595"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fweb_Bakery%20%26%20Kitchen.jpg?alt=media&token=602e681f-6eab-4e89-a637-dbf7786c5f1c",
+          "category":"gid://shopify/Collection/307106906275"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2FFrozen%20%26%20Chilled.jpg?alt=media&token=f12ce1bd-8a21-4bb9-91f3-b0c55417e17f",
+          "category":"gid://shopify/Collection/307453198499"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Fcarbonated%20flavored.jpg?alt=media&token=ec287609-20db-4208-8744-1efa7b8b5ac8",
+          "category":"gid://shopify/Collection/307739164835"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2FSugar%20free.jpg?alt=media&token=85c3349a-a046-4df2-b383-aeb74a129e6e",
+          "category":"gid://shopify/Collection/308164788387"
+        },
+        {
+          "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/categories-images%2Ffitness.png?alt=media&token=13e85915-8191-4cd8-8a68-1ae57baed833",
+          "category":"gid://shopify/Collection/297738502307"
+        },
+        {
+            "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/Banners2025%2FWeb_calender_april%2011-17.jpg?alt=media&token=a8fcee7f-0e0c-4901-8053-f88b63fdbb6c"
+        },
+        {
+            "image":"https://firebasestorage.googleapis.com/v0/b/let-s-organic.appspot.com/o/Banners2025%2FWeb_calender_april%2018-24.jpg?alt=media&token=73cf39e9-04a1-4192-a6c9-fd1c0760d4ed",
+             "category":"gid://shopify/Collection/297840410787"
+        }
+      ],
+      "showOriginalColor":true,
       "parallaxImageRatio":1.2,
-      "showSearch":true
+      "key":"yxYTDWsIIN"
     },
     {
       "layout":"cart",
